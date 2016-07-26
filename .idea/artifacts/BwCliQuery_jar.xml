@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BwCliQuery:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BwCliQuery_jar</output-path>
+    <root id="archive" name="BwCliQuery.jar">
+      <element id="module-output" name="BwCliQuery" />
+    </root>
+  </artifact>
+</component>
